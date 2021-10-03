@@ -28,7 +28,6 @@ defmodule Cowlib.Mixfile do
       name: "remedy_cowlib",
       maintainers: ["Benjamin Danklin"],
       licenses: ["ISC"],
-      build_tools: ["rebar3"],
       links: %{
         "GitHub" => "https://github.com/bdanklin/cowlib"
       },
