@@ -2,7 +2,7 @@
 
 PROJECT = cowlib
 PROJECT_DESCRIPTION = Support library for manipulating Web protocols.
-PROJECT_VERSION = 2.11.0
+PROJECT_VERSION = 2.11.1
 
 # Options.
 

@@ -12,3 +12,6 @@ examples/*/ebin
 logs
 relx
 test/*.beam
+_build
+doc
+.elixir_ls
